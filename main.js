@@ -1,2 +1,4 @@
 console.log('CAD loading');
-console.log('CAD load failed);
+
+
+document.getElementById("p1").innerHTML = "New text!";
