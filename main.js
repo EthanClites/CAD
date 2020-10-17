@@ -1,2 +1,2 @@
-console.log('CAD loading')
-console.log('CAD load failed)
+console.log('CAD loading');
+console.log('CAD load failed);
